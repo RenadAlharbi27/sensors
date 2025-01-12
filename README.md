@@ -33,8 +33,19 @@ The temperature readings are also displayed in the Serial Monitor for monitoring
 - **LEDs**: Controlled via digital pins 2, 3, and 4.
 
 ### Circuit Diagram
+```
+https://www.tinkercad.com/things/4g1i7yWBksM/editel
+```
 
-![Copy of TMP36 Temperature Sensor With Arduino](https://github.com/user-attachments/assets/39ccb31a-b23c-4752-89a3-b917e06b3759)
+![Copy of TMP36 Temperature Sensor With Arduino (1)](https://github.com/user-attachments/assets/6b2d358b-abc0-439c-b6e6-115e5497c075)
+
+![image](https://github.com/user-attachments/assets/774117dc-4ef8-4ead-ade5-10357c3e272d)
+
+![image](https://github.com/user-attachments/assets/1e5d3c88-3292-48a0-bf28-07a4951e3bf8)
+
+
+![image](https://github.com/user-attachments/assets/822fb09b-654b-4da5-901b-df3adbba936f)
+
 
 
 ### Setup Instructions
@@ -121,9 +132,15 @@ This project uses an Arduino Uno with a PIR (Passive Infrared) Motion Sensor to 
 5. **USB Cable**: To power the Arduino and upload the code.
 
 ### Circuit Diagram
+```
+https://www.tinkercad.com/things/74cU53Y4xcj-pir-motion-sensor-digital-input/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fcircuits
+```
 
 ![PIR Motion Sensor (Digital Input)](https://github.com/user-attachments/assets/20e1a224-0159-40fc-b600-7f6b83b7df1c)
 
+![image](https://github.com/user-attachments/assets/4cfc1342-4847-4f2b-84ba-7bd5ad1a601d)
+
+![image](https://github.com/user-attachments/assets/c407ec2c-fe4d-4fc9-b61e-78ae8c76fd20)
 
 ### Signal Types
 - **PIR Sensor**: Sends a digital signal (HIGH/LOW) to digital pin 2.
